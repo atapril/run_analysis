@@ -1,5 +1,5 @@
-# run_analysis
-Gettting and Cleaning Data Course Project
+
+#Gettting and Cleaning Data Course Project
 
 run_analysis.R can be found in this repository.
 

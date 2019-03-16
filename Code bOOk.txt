@@ -1,0 +1,108 @@
+ [1] "Subject" : Name of individual                                                        
+ [2] "Activities" : Name of 6 activities  
+Average Time for body to Acelarate                                                   
+ [3] "Time Body Aceleration Mean  X"                                  
+ [4] "Time Body Aceleration Mean  Y"                                  
+ [5] "Time Body Aceleration Mean  Z"  
+Standard deviation time for body to acelarate                                
+ [6] "Time Body Aceleration Standard deviation X"                     
+ [7] "Time Body Aceleration Standard deviation Y"                     
+ [8] "Time Body Aceleration Standard deviation Z" 
+Average Time for gravity acelarate              
+ [9] "Time Gravity Aceleration Mean  X"                               
+ [10] "Time Gravity Aceleration Mean  Y"                               
+ [11] "Time Gravity Aceleration Mean  Z"
+Standard deviation time for gravity acelarate                               
+ [12] "Time Gravity Aceleration Standard deviation X"                  
+ [13] "Time Gravity Aceleration Standard deviation Y"                  
+ [14] "Time Gravity Aceleration Standard deviation Z"   
+Average Time for body to Acelarate Jerk                
+ [15] "Time Body AcelerationJerk Mean  X"                              
+ [16] "Time Body AcelerationJerk Mean  Y"                              
+ [17] "Time Body AcelerationJerk Mean  Z" 
+Standard deviation time to Acelarate Jerk                             
+ [18] "Time Body AcelerationJerk Standard deviation X"                 
+ [19] "Time Body AcelerationJerk Standard deviation Y"                 
+ [20] "Time Body AcelerationJerk Standard deviation Z"                 
+Average Time for body to Gyroscope
+ [21] "Time Body Gyroscope Mean  X"                                    
+ [22] "Time Body Gyroscope Mean  Y"                                    
+ [23] "Time Body Gyroscope Mean  Z"   
+Standard deviation for body to Gyroscope                                
+ [24] "Time Body Gyroscope Standard deviation X"                       
+ [25] "Time Body Gyroscope Standard deviation Y"                       
+ [26] "Time Body Gyroscope Standard deviation Z"   
+Average Time for body to Gyroscope jerk                    
+ [27] "Time Body GyroscopeJerk Mean  X"                                
+ [28] "Time Body GyroscopeJerk Mean  Y"                                
+ [29] "Time Body GyroscopeJerk Mean  Z"  
+Standard deviation for body to Gyroscope jerk                              
+ [30] "Time Body GyroscopeJerk Standard deviation X"                   
+ [31] "Time Body GyroscopeJerk Standard deviation Y"                   
+ [32] "Time Body GyroscopeJerk Standard deviation Z"                   
+Average Time for body to acelarate magnitude 
+ [33] "Time Body Aceleration Magnitude Mean "
+Standard deviation time for body to acelarate magnitude                          
+ [34] "Time Body Aceleration Magnitude Standard deviation" 
+Average Time for body to Gravity Aceleration Magnitude             
+ [35] "Time Gravity Aceleration Magnitude Mean " 
+Standard deviation time Gravity Aceleration Magnitude                     
+ [36] "Time Gravity Aceleration Magnitude Standard deviation"
+Average Time for Body AcelerationJerk Magnitude          
+ [37] "Time Body AcelerationJerk Magnitude Mean "  
+Standard deviation time Body AcelerationJerk Magnitude                    
+ [38] "Time Body AcelerationJerk Magnitude Standard deviation"         
+Average Time for body to gyroscope magnitude
+ [39] "Time Body Gyroscope Magnitude Mean "                            
+ [40] "Time Body Gyroscope Magnitude Standard deviation"               
+ [41] "Time Body GyroscopeJerk Magnitude Mean "     
+Standard deviation Time for body to gyroscope magnitude                  
+ [42] "Time Body GyroscopeJerk Magnitude Standard deviation"           
+ [43] "Frequency Body Aceleration Mean  X"                             
+ [44] "Frequency Body Aceleration Mean  Y" 
+ [45] "Frequency Body Aceleration Mean  Z"                            
+Average Frequency body Acelarate                         
+ [46] "Frequency Body Aceleration Standard deviation X"                
+ [47] "Frequency Body Aceleration Standard deviation Y"                
+ [48] "Frequency Body Aceleration Standard deviation Z"  
+Standard deviation frequency body acelarate              
+ [49] "Frequency Body Aceleration Mean Freq X"                         
+ [50] "Frequency Body Aceleration Mean Freq Y"                        
+ [51] "Frequency Body Aceleration Mean Freq Z" 
+Average Frequency body Acelarate jerk                        
+ [52] "Frequency Body AcelerationJerk Mean  X"                         
+ [53] "Frequency Body AcelerationJerk Mean  Y"                         
+ [54] "Frequency Body AcelerationJerk Mean  Z"
+Standard deviation frequency body acelarate jerk                         
+ [55] "Frequency Body AcelerationJerk Standard deviation X"            
+ [56] "Frequency Body AcelerationJerk Standard deviation Y"            
+ [57] "Frequency Body AcelerationJerk Standard deviation Z" 
+Average Frequency Body AcelerationJerk    
+ [58] "Frequency Body AcelerationJerk Mean Freq X"                     
+ [59] "Frequency Body AcelerationJerk Mean Freq Y"                     
+ [60] "Frequency Body AcelerationJerk Mean Freq Z" 
+Average Frequency Body Gyroscope                  
+ [61] "Frequency Body Gyroscope Mean  X"                               
+ [62] "Frequency Body Gyroscope Mean  Y"                               
+ [63] "Frequency Body Gyroscope Mean  Z"
+Standard deviation Body Gyroscope                             
+ [64] "Frequency Body Gyroscope Standard deviation X"                  
+ [65] "Frequency Body Gyroscope Standard deviation Y"                  
+ [66] "Frequency Body Gyroscope Standard deviation Z"  
+Average Frequency Body Gyroscope                
+ [67] "Frequency Body Gyroscope Mean Freq X"                           
+ [68] "Frequency Body Gyroscope Mean Freq Y"                           
+ [69] "Frequency Body Gyroscope Mean Freq Z"
+                           
+ [70] "Frequency Body Aceleration Magnitude Mean "                     
+ [71] "Frequency Body Aceleration Magnitude Standard deviation"        
+ [72] "Frequency Body Aceleration Magnitude Mean Freq"                 
+ [73] "Frequency BodyBody AcelerationJerk Magnitude Mean "             
+ [74] "Frequency BodyBody AcelerationJerk Magnitude Standard deviation"
+ [75] "Frequency BodyBody AcelerationJerk Magnitude Mean Freq"         
+ [76] "Frequency BodyBody Gyroscope Magnitude Mean "                   
+ [77] "Frequency BodyBody Gyroscope Magnitude Standard deviation"      
+ [78] "Frequency BodyBody Gyroscope Magnitude Mean Freq"               
+ [79] "Frequency BodyBody GyroscopeJerk Magnitude Mean "               
+ [80] "Frequency BodyBody GyroscopeJerk Magnitude Standard deviation"  
+ [81] "Frequency BodyBody GyroscopeJerk Magnitude Mean Freq"           
